@@ -1,0 +1,16 @@
+.datas-cat{
+    height: 370px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(44, 43, 43);
+    background: #ccc;
+}
+
+tr, td, th{
+    border: #1b3f89 solid 2px;
+}
+
+
+
+
